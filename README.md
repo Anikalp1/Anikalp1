@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/anikalpjaiswal" target="blank"><img src="https://img.shields.io/twitter/follow/anikalpjaiswal?logo=twitter&style=for-the-badge" alt="anikalpjaiswal" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://anikalp1.github.io/portfolio/](https://anikalp1.github.io/portfolio/)
+- 👨‍💻 All about me ||  [https://anikalp1.github.io/portfolio/](https://anikalp1.github.io/portfolio/)
 
 - 💬 Ask me about **front-end development**
 
