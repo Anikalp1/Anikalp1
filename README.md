@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anikalp1&" alt="anikalp1" /></p>
 
-[![Anikalp's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anikalp1&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anikalp's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anikalp1&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
