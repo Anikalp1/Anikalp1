@@ -19,7 +19,7 @@
 <a href="https://twitter.com/anikalpjaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anikalpjaiswal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anikalp-jaiswal-87a815224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anikalp-jaiswal-87a815224" height="30" width="40" /></a>
 <a href="https://instagram.com/anikalp_._8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anikalp_._8" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anikalpjaiswal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anikalpjaiswal1" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anikalp_1" target="blank"><img align="center" src="https://github.com/Anikalp1/CodeChefMMMUTChapter/blob/main/assets/CodeChef.png" alt="anikalp_1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
