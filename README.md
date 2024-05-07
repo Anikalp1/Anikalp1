@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/c5/d6/8e/c5d68e3f92b74f875e9eaa71e7afaf72.gif)](https://github.com/Anikalp1)
+[![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)](https://github.com/Anikalp1)
 
 <h1 align="center">Hello 👋, I'm Anikalp Jaiswal</h1>
 <h3 align="center"> Contributor || Front-end developer || Competitive programmer</h3>
