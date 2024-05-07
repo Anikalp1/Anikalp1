@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gif)](https://github.com/Anikalp1)
+[![MasterHead](https://i.pinimg.com/originals/c5/d6/8e/c5d68e3f92b74f875e9eaa71e7afaf72.gif)](https://github.com/Anikalp1)
 
 <h1 align="center">Hello 👋, I'm Anikalp Jaiswal</h1>
 <h3 align="center"> Contributor || Front-end developer || Competitive programmer</h3>
