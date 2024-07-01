@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/anikalpjaiswal" target="blank"><img src="https://img.shields.io/twitter/follow/anikalpjaiswal?logo=twitter&style=for-the-badge" alt="anikalpjaiswal" /></a> </p>
 
-- 👨‍💻 All about me ||  [https://anikalp1.github.io/portfolio/](https://anikalp1.github.io/portfolio/)
+- 👨‍💻 All about me ||  [My Portfolio](https://anikalp-portfolio.vercel.app/)
 
-- 💬 Ask me about **front-end development**
+- 💬 Ask me about **Full-Stack development**
 
 - 📫 How to reach me **anikalpjaiswal1@gmail.com**
 
