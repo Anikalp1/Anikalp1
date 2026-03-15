@@ -1,7 +1,7 @@
 <h1 align="center">Anikalp Jaiswal</h1>
 
 <p align="center">
-frontend product engineer • ai native • real building
+frontend product engineer • AI native • real building
 </p>
 
 ---
@@ -9,9 +9,9 @@ frontend product engineer • ai native • real building
 ### about
 
 I enjoy building **fast interfaces**, **developer tools**, and **scalable product systems**.
-My work focuses on turning complex ideas into **simple, reliable user experiences**.
+my work focuses on turning complex ideas into **simple, reliable user experiences**.
 
-Currently exploring:
+currently exploring:
 
 * AI-powered products
 * developer tooling
