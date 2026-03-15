@@ -29,7 +29,7 @@ currently exploring:
 
 ### links
 
-[portfolio](https://anikalp-portfolio.vercel.app) - [linkedIn](https://linkedin.com/in/anikalp-jaiswal-87a815224) - [twitter](https://twitter.com/anikalpjaiswal)
+[portfolio](https://anikalp-portfolio.vercel.app) - [linkedIn](https://linkedin.com/in/anikalp-jaiswal-87a815224) - [twitter](https://x.com/meAnikalp)
 
 ---
 
